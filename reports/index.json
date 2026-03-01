@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260301-210236-5gj0",
+    "title": "Its Me Charl",
+    "commanders": [
+      "Its Me Charl"
+    ],
+    "dateStart": "2026-03-01T20:02:36.000Z",
+    "dateEnd": "2026-03-01T20:59:23.000Z",
+    "dateLabel": "1.3.2026 21.02.36 - 1.3.2026 21.59.23",
+    "url": "https://ShinyDream25.github.io/RD-GVG/?report=20260301-210236-5gj0",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 18,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 24
+    }
+  },
+  {
     "id": "20260225-200111-2i6u",
     "title": "Mr Bobbels",
     "commanders": [
