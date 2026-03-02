@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260302-200432-uci0",
+    "title": "Arthur Stonehenge, Ijmpo",
+    "commanders": [
+      "Arthur Stonehenge",
+      "Ijmpo"
+    ],
+    "dateStart": "2026-03-02T19:04:32.000Z",
+    "dateEnd": "2026-03-02T21:07:34.000Z",
+    "dateLabel": "2.3.2026 20.04.32 - 2.3.2026 22.07.34",
+    "url": "https://ShinyDream25.github.io/RD-GVG/?report=20260302-200432-uci0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 38,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 27
+    }
+  },
+  {
     "id": "20260301-210236-5gj0",
     "title": "Its Me Charl",
     "commanders": [
